@@ -1,0 +1,11 @@
+canvas {
+    border:1px solid #d3d3d3;
+    background-image: url("./tile2.png");
+    background-repeat: repeat;
+    background-size: 30px;
+    background-blend-mode: normal;
+}
+
+body {
+    background-color: #7e7e7e;
+}
